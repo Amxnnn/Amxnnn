@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A man.
+- 👋 Hi, I’m Aman.
 - 📫 How to reach me amxnkamboj@gmail.com
   # 💫 About Me:
 I’m currently working on web dev and web3<br>
