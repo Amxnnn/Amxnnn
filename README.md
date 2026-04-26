@@ -29,7 +29,9 @@
   </a>
 </p>
 
-<br/>## 💻 Tech Stack
+<br/>
+
+**Tech Stack**
 
 <p align="center">
 
@@ -74,13 +76,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=false&count_private=false" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=false&count_private=false" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&color=9D79F2&line=6D28D9&point=ffffff" />
