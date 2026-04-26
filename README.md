@@ -74,23 +74,26 @@
 </p>
 
 ---
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amxnnn&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amxnnn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amxnnn&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&area_color=6D28D9&color=9D79F2&line=6D28D9&point=ffffff" />
 </p>
 
 ---
@@ -98,14 +101,18 @@
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=80&section=footer&fontSize=16" />
+</p>
+
+<p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Amxnnn&icon=0&color=6" />
+    <img src="https://visitcount.itsvg.in/api?id=Amxnnn&label=Profile%20Views&icon=5&color=6&pretty=true" />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
