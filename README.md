@@ -75,21 +75,19 @@
 
 ---
 ---
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=false&count_private=false" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amxnnn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&color=9D79F2&line=6D28D9&point=ffffff" />
 </p>
-
----
-
 ## 📅 Contribution Calendar
 
 <p align="center">
