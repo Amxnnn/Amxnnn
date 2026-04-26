@@ -89,14 +89,10 @@
   </tr>
 </table>
 
-<p align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&color=9D79F2&line=6D28D9&point=ffffff" />
-</p>
-
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&area_color=6D28D9&color=9D79F2&line=6D28D9&point=ffffff" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amxnnn&theme=tokyo-night&hide_border=true&area=true&area_color=6D28D9&color=9D79F2&line=6D28D9&point=ffffff" />
 </p>
 
 ---
