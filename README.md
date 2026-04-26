@@ -1,3 +1,7 @@
+<img width="1911" height="1097" alt="image" src="https://github.com/user-attachments/assets/d3fa4561-57c9-4a75-9930-5d89f8d799f2" />
+
+
+
 - 👋 Hi, I’m Aman.
 - 💫 Portfolio - https://www.amank.fun/
 - 📫 How to reach me amxnkamboj@gmail.com
