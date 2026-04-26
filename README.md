@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=false&count_private=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amxnnn&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=false&count_private=false" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amxnnn&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
 <p align="center">
