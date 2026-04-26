@@ -1,4 +1,4 @@
-<img width="854" height="220" alt="banner (2)" src="https://github.com/user-attachments/assets/75b4a14c-8297-45af-a09e-34c4fd210495" />
+<img width="100%" height="220" alt="banner (2)" src="https://github.com/user-attachments/assets/75b4a14c-8297-45af-a09e-34c4fd210495" />
 
 
 - 👋 Hi, I’m Aman.
