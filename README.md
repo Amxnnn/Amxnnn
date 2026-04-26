@@ -109,14 +109,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=80&section=footer&fontSize=16" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Amxnnn&label=Profile%20Views&icon=5&color=6&pretty=true" />
-  </a>
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-Amxnnn/Amxnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
